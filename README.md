@@ -1,35 +1,15 @@
 # PokerHands
 
-FIXME: description
+Implementation of the poker hands Kata http://codingdojo.org/cgi-bin/wiki.pl?KataPokerHands
 
-## Installation
-
-Download from http://example.com/FIXME.
+Our third attempt.  We're getting better :)
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar PokerHands-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+lein test
 
 ## License
 
-Copyright © 2012 FIXME
+Copyright © 2012 Toronto Coding Dojo
 
 Distributed under the Eclipse Public License, the same as Clojure.
